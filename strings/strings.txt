@@ -1,0 +1,60 @@
+Comprimento de uma String:
+
+Escreva um programa que calcula e imprime o comprimento de uma string.
+Cópia de Strings:
+
+Escreva uma função que copia uma string para outra.
+Concatenação de Strings:
+
+Escreva uma função que concatena duas strings.
+Comparação de Strings:
+
+Escreva uma função que compara duas strings.
+Inversão de uma String:
+
+Escreva uma função que inverte uma string.
+Contagem de Palavras em uma String:
+
+Escreva uma função que conta o número de palavras em uma string.
+Remoção de Espaços em Branco:
+
+Escreva uma função que remove os espaços em branco de uma string.
+Substituição de Caracteres:
+
+Escreva uma função que substitui todas as ocorrências de um caractere por outro em uma string.
+Verificação de Palíndromos:
+
+Escreva uma função que verifica se uma string é um palíndromo.
+Separação de Palavras em uma String:
+
+Escreva uma função que divide uma string em palavras individuais.
+Conversão para Maiúsculas e Minúsculas:
+
+Escreva funções que convertem uma string para maiúsculas e minúsculas.
+Contagem de Ocorrências de Substring:
+
+Escreva uma função que conta o número de ocorrências de uma substring em uma string.
+Remoção de Substring:
+
+Escreva uma função que remove uma substring de uma string.
+Quebra de Linha:
+
+Escreva uma função que quebra uma string em várias linhas com um número máximo de caracteres por linha.
+Separação de String por Delimitador:***
+
+Escreva uma função que divide uma string em substrings usando um delimitador específico.***
+Contagem de Vogais e Consoantes:
+
+Escreva uma função que conta o número de vogais e consoantes em uma string.
+Remoção de Caracteres Repetidos:
+
+Escreva uma função que remove caracteres repetidos de uma string.
+Cifra de César:
+
+Implemente a cifra de César para criptografar e descriptografar uma string.
+Compressão de String:
+
+Escreva uma função que realiza a compressão de uma string usando contagem de repetições.
+Validação de E-mail:
+
+Escreva uma função que verifica se uma string representa um endereço de e-mail válido.

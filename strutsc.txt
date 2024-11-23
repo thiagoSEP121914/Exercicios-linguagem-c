@@ -1,0 +1,56 @@
+Cadastro de Alunos:
+
+Crie uma estrutura Aluno com campos para nome, matrícula, nota1, nota2 e nota3.
+Permita que o usuário cadastre informações de vários alunos.
+Imprima os dados cadastrados.
+Calculadora de Retângulos:
+
+Crie uma estrutura Retangulo com campos para largura e altura.
+Permita que o usuário insira os valores de largura e altura para dois retângulos.
+Calcule e imprima a área de cada retângulo.
+Agenda de Contatos:
+
+Crie uma estrutura Contato com campos para nome, telefone e email.
+Permita que o usuário cadastre informações de vários contatos.
+Implemente uma função para buscar um contato pelo nome.
+Registro de Funcionários:
+
+Crie uma estrutura Funcionario com campos para nome, cargo, salário e número de identificação.
+Permita que o usuário cadastre informações de vários funcionários.
+Imprima os dados dos funcionários, ordenados pelo salário.
+Cadastro de Livros:
+
+Crie uma estrutura Livro com campos para título, autor e ano de publicação.
+Permita que o usuário cadastre informações de vários livros.
+Imprima os dados dos livros ordenados pelo ano de publicação.
+Cadastro de Carros:
+
+Crie uma estrutura Carro com campos para modelo, marca, ano e preço.
+Permita que o usuário cadastre informações de vários carros.
+Calcule e imprima a média de preço dos carros cadastrados.
+Jogo de Cartas:
+
+Crie uma estrutura Carta com campos para valor (Ás, 2, 3, ..., Rei) e naipe (Copas, Espadas, Ouros, Paus).
+Crie um array de cartas representando um baralho completo.
+Embaralhe o baralho e distribua algumas cartas a jogadores.
+Controle de Estoque:
+
+Crie uma estrutura Produto com campos para nome, código, preço e quantidade em estoque.
+Permita que o usuário cadastre informações de vários produtos.
+Implemente funções para verificar o estoque de um produto específico e para atualizar a quantidade em estoque.
+Registro de Pacientes:
+
+Crie uma estrutura Paciente com campos para nome, idade, altura e peso.
+Permita que o usuário cadastre informações de vários pacientes.
+Calcule e imprima o IMC (Índice de Massa Corporal) de cada paciente.
+Cadastro de Filmes:
+
+Crie uma estrutura Filme com campos para título, diretor, ano de lançamento e gênero.
+Permita que o usuário cadastre informações de vários filmes.
+Implemente uma função para buscar filmes de um determinado gênero.
+Esses exercícios proporcionarão uma boa prática no uso de structs em C. Ao resolvê-los, você estará melhorando suas habilidades de manipulação de dados estruturados na linguagem.
+
+
+
+
+

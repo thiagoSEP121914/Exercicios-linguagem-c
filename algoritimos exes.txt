@@ -1,0 +1,89 @@
+Duas Soma:
+Dada uma lista de números, retorne os índices de dois números que somam para formar um alvo.
+
+Subtrair a Palavra Maior:
+Dada uma string s representando a expressão de uma palavra, você precisa retornar o maior prefixo da string que é uma palavra na lista words.
+
+Inverter Integer:
+Dado um inteiro, reverta seus dígitos.
+
+Palíndromo Número:
+Determine se um número é um palíndromo.
+
+Remover Duplicatas de um Array Ordenado:
+Remova os elementos duplicados de um array ordenado e retorne o novo comprimento.
+
+Maior Produto Três Números:
+Dada uma lista de inteiros, encontre o maior produto que pode ser obtido multiplicando três números.
+
+Mover Zeros:
+Dado um array de números, mova todos os zeros para o final do array, mantendo a ordem relativa dos outros elementos.
+
+Validar Números Romanos:
+Valide uma string representando um número romano.
+
+Conjunto de Soma Zero:
+Dada uma matriz de inteiros, encontre todos os conjuntos únicos de três números cuja soma seja igual a zero.
+
+Inteiro para Romanos:
+Converta um número inteiro para sua representação romana.
+
+Duas Soma II - Entrada Ordenada:
+Dada uma matriz ordenada e um alvo, encontre os índices de dois números cuja soma seja igual ao alvo.
+
+Mergulhar os Intervals:
+Dada uma lista de intervalos, faça a união deles.
+
+Validar Números de Telefone:
+Dada uma string, valide se ela é um número de telefone válido.
+
+Produto de Matriz Diagonal:
+Dada uma matriz quadrada, calcule o produto dos elementos na diagonal principal.
+
+Dividir Palavra em Dicionário:
+Dada uma string e um dicionário, divida a string em palavras presentes no dicionário.
+
+Caixa de Redes e Maçãs:
+Dada a quantidade total de maçãs e caixas disponíveis, encontre o número máximo de maçãs que podem ser colocadas nas caixas.
+
+Validar Parênteses:
+Dada uma string contendo apenas os caracteres '(', ')', '{', '}', '[' e ']', determine se a entrada é válida.
+
+Média dos Números Após Remover Percentual:
+Dada uma lista de números e um percentual a ser removido, calcule a média dos números restantes.
+
+Número de Inversões de Matriz:
+Dada uma matriz de inteiros, conte o número de inversões necessárias para tornar a matriz triangular inferior.
+
+Validar Palavra Palíndromo:
+Dada uma string, determine se é um palíndromo, ignorando maiúsculas e minúsculas e considerando apenas caracteres alfanuméricos.
+
+Única Ocorrência Única:
+Dada uma lista de números em que cada número aparece duas vezes, exceto por um número que aparece apenas uma vez, encontre esse número único.
+
+Combinação de Soma:
+Dada uma matriz de inteiros e um alvo, encontre todas as combinações únicas de números que somam para formar o alvo.
+
+Máxima Subsequência Contínua de Soma:
+Dada uma lista de números, encontre a máxima subsequência contínua de soma.
+
+Número de Ocorrências Únicas em um Array:
+Dada uma lista de números em que cada número aparece três vezes, exceto por um número que aparece apenas uma vez, encontre esse número único.
+
+Ordenar Cores:
+Dada uma matriz de cores representadas como números, ordene-as de acordo com a seguinte ordem: vermelho (0), branco (1) e azul (2).
+
+Subsequência Comum Máxima:
+Dadas duas sequências, encontre o comprimento da maior subsequência comum.
+
+Triângulo Mínimo de Soma:
+Dada uma lista de listas representando um triângulo, encontre a soma mínima do caminho da parte superior à base.
+
+Maior Submatriz com Todos 1's:
+Dada uma matriz binária, encontre o tamanho da maior submatriz que contém apenas 1's.
+
+Palavras em Linhas:
+Dada uma lista de palavras e a largura da linha, formate o texto de forma que cada linha tenha exatamente a largura dada.
+
+Encontrar os K Maiores Elementos em uma Lista:
+Dada uma lista de números e um número inteiro k, encontre os k maiores elementos na lista.

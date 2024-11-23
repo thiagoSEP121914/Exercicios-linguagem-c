@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707791063 source:c:\users\vitin\onedrive\ambiente de trabalho\linguagem c\leetcode\exe13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704410681 source:c:\users\vitin\onedrive\ambiente de trabalho\linguagem c\curso_c_exe36\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

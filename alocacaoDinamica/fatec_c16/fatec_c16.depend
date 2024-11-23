@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715582962 source:c:\users\vitin\onedrive\ambiente de trabalho\linguagem c\alocacaodinamica\fatec_c16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

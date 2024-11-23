@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1702444487 source:c:\users\vitin\onedrive\ambiente de trabalho\linguagem c\linguagemc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1702442163 source:c:\users\vitin\onedrive\ambiente de trabalho\linguagem c\linguagemc\ex1.c
+	<stdio.h >
+
+1702445057 source:c:\users\vitin\onedrive\ambiente de trabalho\linguagem c\linguagemc\exercicio1.c
+	<stdio.h>
+	<stdlib.h>
+

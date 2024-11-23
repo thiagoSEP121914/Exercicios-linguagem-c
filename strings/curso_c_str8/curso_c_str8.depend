@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705891035 source:c:\users\vitin\onedrive\ambiente de trabalho\linguagem c\strings\curso_c_str8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
